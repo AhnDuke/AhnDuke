@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there 👋 I'm Duke!
+I'm a full stack software developer working on a JMX Client for Apache Kafka called Kaffee ☕!
 <!--
 **AhnDuke/AhnDuke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
